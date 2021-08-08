@@ -26,7 +26,7 @@ I also worked a little as an "influencer" on Twitch for a year and some months I
  <a href="https://discord.gg/nDrrXwc5QY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:PixelNerdNetwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/VitorSchutz1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-##
+
 
 
 ### My hobbies🔭
