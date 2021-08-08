@@ -31,10 +31,13 @@ I also like anime and manga is not something that I love very much or something 
 For me, a workplace where people get along and talk and that have some common interests because a good team is a team that knows exactly what others are saying or quoting
 
 ### Contact📫
-
-
-
-
+<div> 
+  <a href="https://www.youtube.com/channel/UCp1yOVFd0j7h-LT3VzIS75Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/vitorschutz/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/pixelnerdguild" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/nDrrXwc5QY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:PixelNerdNetwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
 ##
 
 
