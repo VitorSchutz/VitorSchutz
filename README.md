@@ -26,3 +26,9 @@ For me, a workplace where people get along and talk and that have some common in
 ### Contact📫
 
 You can hire me or contact me on my Instagram (@VitorSchutz) or on my Twitter (@ VitorSchutz1) or by my email PixelNerdNetwork@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSchutz&count_private=true&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSchutz)](https://github.com/VitorSchutz/github-readme-stats&theme=dark)
+
+##
+
+
