@@ -1,3 +1,4 @@
+
 ### Hello World👋
 
 I'm Vitor Schutz but here on the internet, you must know me as PixelNerd, I love programming and solving, I'm from Brazil and I'm practically an expert in Game Maker language and I intend to learn more about Python or Java Scripty.
@@ -10,13 +11,15 @@ I also have a great experience with Game Maker Studio 2 I can make a style game 
 
 I also worked a little as an "influencer" on Twitch for a year and some months I have some experience in the subject.
 
-##
+  ##
   ![Snake animation](https://github.com/VitorSchutz/VitorSchutz/blob/output/github-contribution-grid-snake.svg)
-##
- <a href="https://github.com/rafaballerini">
+  ##
+ <a href="https://github.com/VitorSchutz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSchutz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSchutz&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+  ##
 
 ### Contact📫
 <div> 
@@ -27,6 +30,7 @@ I also worked a little as an "influencer" on Twitch for a year and some months I
   <a href = "mailto:PixelNerdNetwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/VitorSchutz1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
+  ##
 
 
 ### My hobbies🔭
