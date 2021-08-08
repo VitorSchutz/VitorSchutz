@@ -13,6 +13,7 @@ I also worked a little as an "influencer" on Twitch for a year and some months I
 ##
   ![Snake animation](https://github.com/VitorSchutz/VitorSchutz/blob/output/github-contribution-grid-snake.svg)
 ##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSchutz&count_private=true&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSchutz)](https://github.com/VitorSchutz/github-readme-stats&theme=dark)
 
 ### My hobbies🔭
 
@@ -30,7 +31,6 @@ For me, a workplace where people get along and talk and that have some common in
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSchutz&count_private=true&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSchutz)](https://github.com/VitorSchutz/github-readme-stats&theme=dark)
 
 ##
 
