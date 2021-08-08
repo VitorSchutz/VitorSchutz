@@ -31,5 +31,5 @@ You can hire me or contact me on my Instagram (@VitorSchutz) or on my Twitter (@
 
 ##
 
-![Snake animation](https://github.com/VitorSchutz)
+  ![Snake animation](https://github.com/VitorSchutz/VitorSchutz/blob/output/github-contribution-grid-snake.svg)
 
