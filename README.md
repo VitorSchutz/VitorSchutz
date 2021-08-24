@@ -14,8 +14,8 @@ I also worked a little as an "influencer" on Twitch for a year and some months I
   ##
   ![Snake animation](https://github.com/VitorSchutz/VitorSchutz/blob/output/github-contribution-grid-snake.svg)
   ##
-  ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSchutz&hide=contribs,prs&count_private=true?theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSchutz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSchutz&count_private=true)
+
 
 
 ### Contact📫
