@@ -1,15 +1,13 @@
 
 ### Hello World👋
 
-I'm Vitor Schutz but here on the internet, you must know me as PixelNerd, I love programming and solving, I'm from Brazil and I'm practically an expert in Game Maker language and I intend to learn more about Python or Java Scripty.
+I'm Vitor Schutz but here on the internet, you might know me as PixelNerd, I love programming and solving problems, I'm from Brazil and I have great experience with Game Development but currently I work as a Back-End Programmer in Python
 
 ### My work🔧
 
-I'm currently working on a game in Game maker 2 in the Adventure style and plan to launch it from steam soon (You can see My contributions to this project on my profile)
+Currently I'm making small programs in Python just to not lose practice but I'm looking for a Back-End job and I'm accepting proposals.
 
-I also have a great experience with Game Maker Studio 2 I can make a style game The legend of zelda without any problem
-
-I also worked a little as an "influencer" on Twitch for a year and some months I have some experience in the subject.
+I've been in a Game Development Project in Game Maker for 2 years
 
   ##
   ![Snake animation](https://github.com/VitorSchutz/VitorSchutz/blob/output/github-contribution-grid-snake.svg)
@@ -31,17 +29,16 @@ I also worked a little as an "influencer" on Twitch for a year and some months I
 
 ### My hobbies🔭
 
-I love to watch and monitor the night sky especially on full moon days (Astronomy would be my career if I didn't love programming so much)
+I love to observe and monitor the night sky especially on full moon days (Astronomy would be my career if I didn't like programming so much)
 
-I love games and video games (I'm a game developer)
+I love old games and games in general, I'm an amateur video game collector currently expanding the collection
 
-I also like anime and manga is not something that I love very much or something that I just like and think is cool.
+Photography has always called my attention the act of capturing a moment and bringing different feelings through photos is something that fascinates me, that's why in my free time I'm photographing random things even if it's with my cell phone.
 
-### My opinion only💬
+I do not live without music.
+If you find me walking down the street there's a 99% chance that I'm wearing headphones listening to music, for me photography is capturing a moment, music is what conveys the feeling regardless of what it is
 
-For me, a workplace where people get along and talk and that have some common interests because a good team is a team that knows exactly what others are saying or quoting
 
-##
 
 
 
