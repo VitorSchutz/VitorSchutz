@@ -5,9 +5,8 @@ I'm Vitor Schutz but here on the internet, you might know me as PixelNerd, I lov
 
 ### My work🔧
 
-Currently I'm making small programs in Python just to not lose practice but I'm looking for a Back-End job and I'm accepting proposals.
+I'm currently studying Information Technology at college but I have great knowledge in Python and I do some projects so I don't lose practice, in addition I have 2 years of experience with game development in Game Maker Language
 
-I've been in a Game Development Project in Game Maker for 2 years
 
   ##
   ![Snake animation](https://github.com/VitorSchutz/VitorSchutz/blob/output/github-contribution-grid-snake.svg)
